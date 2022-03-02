@@ -25,8 +25,9 @@
 ![](https://komarev.com/ghpvc/?username=falkobanaszak&color=lightgrey)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=falkobanaszak" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=falkobanaszak" />
 </a>
 <a href="https://git.io/streak-stats">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=falkobanaszak&theme=dark" />
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=falkobanaszak&theme=dark" />
 </a>
+
