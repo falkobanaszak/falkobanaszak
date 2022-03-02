@@ -17,6 +17,7 @@
 - [PostgreSQL Backup with Veeam](https://www.virtualhome.blog/2021/02/15/postgresql-backup-with-veeam/)
 - [SAP DB2 databases backup with Veeam](https://www.virtualhome.blog/2021/02/04/sap-db2-databases-backup-with-veeam/)
 <!-- BLOG-POST-LIST:END -->
+### My GitHub stats:
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=falkobanaszak&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
