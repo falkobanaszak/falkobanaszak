@@ -6,3 +6,9 @@
 <a href="https://www.xing.com/profile/Falko_Banaszak/" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/389_Xing_logo-512.png" alt="" height="40" width="40" /></a>
 <a href="https://www.virtualhome.blog/feed/" target="blank"><img align="center" src="https://cdn0.iconfinder.com/data/icons/small-n-flat/24/678060-rss-512.png" alt="" height="40" width="40" /></a>
 </p>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=falkobanaszak)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=falkobanaszak&theme=dark)](https://git.io/streak-stats)
+
+![](https://komarev.com/ghpvc/?username=falkobanaszak&color=lightgrey)
