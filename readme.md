@@ -18,11 +18,7 @@
 - [SAP DB2 databases backup with Veeam](https://www.virtualhome.blog/2021/02/04/sap-db2-databases-backup-with-veeam/)
 <!-- BLOG-POST-LIST:END -->
 
-### Check out my GitHub Repositories here:
-<!-- GITHUB-REPOSITORIES-LIST:START -->
-[![vCenter Role for Veeam](https://github-readme-stats.vercel.app/api/pin/?username=falkobanaszak&repo=vCenter-role-for-Veeam)](https://github.com/anuraghazra/github-readme-stats)
-<!-- GITHUB-REPOSITORIES-LIST:END -->
-
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=falkobanaszak&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=falkobanaszak)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=falkobanaszak&theme=dark)](https://git.io/streak-stats)
 ![](https://komarev.com/ghpvc/?username=falkobanaszak&color=lightgrey)
