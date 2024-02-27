@@ -8,15 +8,6 @@
 <a href="https://www.virtualhome.blog/feed/" target="blank"><img align="center" src="https://cdn0.iconfinder.com/data/icons/small-n-flat/24/678060-rss-512.png" alt="" height="40" width="40" /></a>
 </p>
 
-### Check out my latest Blog Posts here:
-<!-- BLOG-POST-LIST:START -->
-- [Veeam Vanguard 2022 Program Nomination and Review](https://www.virtualhome.blog/2022/03/01/veeam-vanguard-2022-program-nomination-and-review/)
-- [vCenter role for Veeam ONE with PowerCLI](https://www.virtualhome.blog/2022/02/07/vcenter-role-for-veeam-one-with-powercli/)
-- [Veeam FastClone operation takes too long](https://www.virtualhome.blog/2021/08/04/veeam-fastclone-operation-takes-too-long/)
-- [Kubestr – An open-source Kubernetes storage tool](https://www.virtualhome.blog/2021/03/30/kubestr-an-open-source-kubernetes-storage-tool/)
-- [PostgreSQL Backup with Veeam](https://www.virtualhome.blog/2021/02/15/postgresql-backup-with-veeam/)
-- [SAP DB2 databases backup with Veeam](https://www.virtualhome.blog/2021/02/04/sap-db2-databases-backup-with-veeam/)
-<!-- BLOG-POST-LIST:END -->
 ### My GitHub stats:
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=falkobanaszak&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
